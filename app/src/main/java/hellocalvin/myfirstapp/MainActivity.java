@@ -32,7 +32,7 @@ public class MainActivity extends AppCompatActivity {
                     if(i%2==0)
                     {
                         currEvenCount++;
-                        
+
                         firstTenOutput.append(String.valueOf(i));
                         firstTenOutput.append("\n"); // for new line
                     }
